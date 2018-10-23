@@ -12,8 +12,7 @@
 
     $username_err = $password_err = "";
 
-     
-
+    
     // Processing form data when form is submitted
 
     if($_SERVER["REQUEST_METHOD"] == "POST"){
